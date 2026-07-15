@@ -11,4 +11,6 @@ RepositoryLayer/obj
 Model/bin   
 Model/obj
 
+**/secrets.json
+
 
