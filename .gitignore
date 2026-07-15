@@ -1,0 +1,14 @@
+.vs/
+FundooNotes/obj
+FundooNotes/bin
+
+BusinessLayer/bin
+BusinessLayer/obj
+
+RepositoryLayer/bin
+RepositoryLayer/obj
+
+Model/bin   
+Model/obj
+
+

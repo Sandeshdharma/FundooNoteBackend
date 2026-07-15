@@ -1,0 +1,27 @@
+2026-07-15 15:30:07.6191 | INFO | Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager | User profile is available. Using 'C:\Users\91638\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-15 15:30:08.2667 | INFO | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7249
+2026-07-15 15:30:08.2667 | INFO | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5021
+2026-07-15 15:30:08.7054 | INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down.
+2026-07-15 15:30:08.7054 | INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development
+2026-07-15 15:30:08.7054 | INFO | Microsoft.Hosting.Lifetime | Content root path: C:\Users\91638\Desktop\FundooNoteBackend\FundooNotes
+2026-07-15 15:30:12.8801 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/ - - -
+2026-07-15 15:30:13.5020 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/ - 404 - - 650.7847ms
+2026-07-15 15:30:13.5020 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7249/, Response status code: 404
+2026-07-15 15:30:21.0935 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/swagger/index.html - - -
+2026-07-15 15:30:21.2447 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/swagger/index.html - 304 - - 151.4345ms
+2026-07-15 15:30:21.2979 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/swagger/index.css - - -
+2026-07-15 15:30:21.2979 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/swagger/swagger-ui.css - - -
+2026-07-15 15:30:21.2979 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/_framework/aspnetcore-browser-refresh.js - - -
+2026-07-15 15:30:21.2979 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/swagger/swagger-ui-standalone-preset.js - - -
+2026-07-15 15:30:21.2979 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/swagger/index.js - - -
+2026-07-15 15:30:21.2979 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/swagger/swagger-ui-bundle.js - - -
+2026-07-15 15:30:21.2979 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/swagger/index.js - 304 - - 5.1149ms
+2026-07-15 15:30:21.3267 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/_framework/aspnetcore-browser-refresh.js - 200 14927 application/javascript;+charset=utf-8 28.3975ms
+2026-07-15 15:30:21.3267 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/swagger/swagger-ui.css - 304 - - 39.1612ms
+2026-07-15 15:30:21.3267 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/swagger/swagger-ui-bundle.js - 304 - - 37.6364ms
+2026-07-15 15:30:21.3267 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/swagger/index.css - 304 - - 39.3267ms
+2026-07-15 15:30:21.3267 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/swagger/swagger-ui-standalone-preset.js - 304 - - 38.8320ms
+2026-07-15 15:30:21.9619 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/_vs/browserLink - - -
+2026-07-15 15:30:22.0580 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 96.1142ms
+2026-07-15 15:30:22.9144 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7249/swagger/v1/swagger.json - - -
+2026-07-15 15:30:22.9655 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7249/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 51.1376ms
